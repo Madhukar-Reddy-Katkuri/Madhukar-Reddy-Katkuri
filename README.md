@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhukar-Reddy-Katkuri
-- 👀 I’m interested in learning DevOps related concepts like CI\CD and Automation
-- 🌱 I’m currently learning ... GCP Devops, Ansible, Terraform, Jenkins and Kubernetes
+- 👀 I’m interested in learning SRE & DevOps related concepts like CI\CD and Automations
+- 🌱 I’m currently learning ...  Devops, Ansible, Terraform, Jenkins and Kubernetes
 - 💞️ I’m looking to collaborate on ... DevOps related Projects and voluntered to learn as well as help you guys in your projects
 - 📫 How to reach me ... You can reach me on madhukarreddy437@gmail.com
 - 😄 Pronouns: ... Mad-hukar
